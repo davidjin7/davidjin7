@@ -2,6 +2,7 @@
 
 # I'm Felix 
   - Currently working as Data Analyst in Financial industry
+  - start using Github to record my learning 
 
 # 🌱 I’m currently learning              
   - web development
