@@ -9,8 +9,10 @@
 
 # Hobbies 
   - snooker
-  - read manga
+  - read manga (One Piece!) 
   - cooking
+  - sleeping
+    
     
 
 
