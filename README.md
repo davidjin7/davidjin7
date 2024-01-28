@@ -6,9 +6,13 @@
 
 ## I'm Felix Ong 
   - Currently working as Data Analyst in Financial industry
-  - start using Github to record my learning
+  - start using Github to record my learning pathway to become a data scientist
 
-## 🛠 Languages and tools 
+## 🛠 Languages and tools     
+  - Python
+  - SAS
+  - SQL
+  - Powerbi
 
 
 ## 🌱 I’m currently learning              
