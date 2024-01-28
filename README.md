@@ -8,7 +8,7 @@
   - Currently working as Data Analyst in Financial industry
   - start using Github to record my learning
 
-## Languages and tools 🛠
+## 🛠 Languages and tools 
 
 
 ## 🌱 I’m currently learning              
