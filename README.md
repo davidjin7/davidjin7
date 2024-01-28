@@ -1,6 +1,8 @@
 # Hi there 👋
 
-![](https://github.com/davidjin7/davidjin7/blob/main/one_piece%20gif.gif)
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/davidjin7/davidjin7/blob/main/one_piece%20gif.gif">
+</div>
 
 ## I'm Felix Ong 
   - Currently working as Data Analyst in Financial industry
