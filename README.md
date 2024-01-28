@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![](https://github.com/davidjin7/davidjin7/blob/main/one_piece%20gif.gif)
+
 ## I'm Felix 
   - Currently working as Data Analyst in Financial industry
   - start using Github to record my learning 
