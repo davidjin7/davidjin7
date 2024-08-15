@@ -14,6 +14,10 @@
   - SAS
   - SQL
   - Powerbi
+  - Tableau
+  - Java
+  - HTML
+  - CSS
 
 
 ## 🌱 I’m currently learning              
